@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482346288691",
+    "project_id": "delivery-yutwu",
+    "storage_bucket": "delivery-yutwu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346288691:android:74ff44199e9b019fe60546",
+        "android_client_info": {
+          "package_name": "com.example.deliveryyutwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482346288691-h257ol4c9lgfgq15au3k5c0nn4ml83se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deliveryyutwu",
+            "certificate_hash": "eacf2e6e7f3371bdd7cb897b1e68ca2fc9b18a61"
+          }
+        },
+        {
+          "client_id": "482346288691-0vs5hcsennt7jblpq6s0lkqjfcb7n05s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthjXblTuGdPe-a7PhrQMiMCUb6ohDPBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482346288691-0vs5hcsennt7jblpq6s0lkqjfcb7n05s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
